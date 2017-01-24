@@ -1,0 +1,26 @@
+{
+	"FileVersion" : 3,
+	"Version" : 1,
+	"VersionName" : "0.3",
+	"FriendlyName" : "BlueHTTP",
+	"Description" : "A plugin that provides a Blueprint Function Library for interacting with Metric Tank",
+	"Category" : "Metrics",
+	"CreatedBy" : "Dennis Bogers",
+	"CreatedByURL" : "http://dennisbogers.nl",
+	"DocsURL" : "",
+	"MarketplaceURL" : "",
+	"SupportURL" : "",
+	"EnabledByDefault" : true,
+	"CanContainContent" : false,
+	"IsBetaVersion" : true,
+	"Installed" : true,
+	"RequiresBuildPlatform" : false,
+	"Modules" :
+	[
+		{
+			"Name" : "BlueHTTP",
+			"Type" : "Developer",
+			"LoadingPhase" : "Default"
+		}
+	]
+}
